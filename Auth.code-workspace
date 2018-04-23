@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "bootstrapProject"
+		},
+		{
+			"path": "MongodbBackend"
+		}
+	],
+	"settings": {}
+}
